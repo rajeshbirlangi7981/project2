@@ -36,3 +36,74 @@
     transform: rotate(360deg);
   }
 }
+
+.mainDecoration a{
+ text-decoration: none;
+ color: inherit;
+}
+.mainDecoration a:hover{
+  color: red;
+ }
+
+.searchBox{
+  display: flex;
+  color: darkgrey;
+  background: #79918f;
+  border-radius: 5px;
+  border-color: black;
+  justify-content: center;
+  align-items: center; 
+}
+.body{
+background: rgb(243, 241, 239);
+}
+.bodyUpper{
+  margin-top: 20px;
+}
+
+.imageSection{
+  margin-top: auto;
+  /* width:500px; */
+  /* height: 450px; */
+}
+.para{
+  margin-top: 30px;
+  justify-content: center;
+}
+.bodyBottam{
+  justify-content: center;
+  margin-left: 350px;  
+}
+.bodyBottam button{
+  margin-left: 150px;
+  margin-bottom: 20px;
+}
+.footerBackground{
+  background-color: #f1e6c6;
+}
+.footerLogo{
+  margin-top: 55px;
+}
+.address{
+  font-size: 16px !important;
+  font-style: italic;
+}
+.unorderedList{
+  list-style-type: none;
+}
+.unorderedList a{
+  text-decoration: none;
+  color: inherit;
+}
+.unorderedList a:hover{
+  color: red;
+}
+
+#decoration li{
+  text-decoration:none;
+}
+.footerBottam{
+  background-color: darkgreen;
+  justify-content:end;
+  text-align: end;
+}
