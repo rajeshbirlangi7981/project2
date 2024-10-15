@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,7 +35,7 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
 
 .mainDecoration a{
  text-decoration: none;
@@ -103,7 +103,7 @@ background: rgb(243, 241, 239);
   text-decoration:none;
 }
 .footerBottam{
-  background-color: darkgreen;
+  background-color:forestgreen;
   justify-content:end;
   text-align: end;
 }
